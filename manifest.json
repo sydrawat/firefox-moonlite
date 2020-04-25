@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "version": "1.0",
-  "name": "firefox-moonlite",
+  "name": "ff-moonlite",
   "theme": {
     "colors": {
       "toolbar": "rgb(43, 48, 58)",
