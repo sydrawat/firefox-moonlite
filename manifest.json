@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
-  "name": "ff-moonlite",
+  "version": "1.1",
+  "name": "hyper-ff-moonlite",
   "theme": {
     "colors": {
       "toolbar": "rgb(43, 48, 58)",
