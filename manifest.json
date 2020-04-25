@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "hyper-moonlite",
+  "theme": {
+    "colors": {
+      "toolbar": "rgb(43, 48, 58)",
+      "toolbar_text": "rgb(141, 161, 178)",
+      "frame": "rgb(43, 48, 58)",
+      "tab_background_text": "rgb(192, 197, 205)",
+      "toolbar_field": "rgb(43, 48, 58)",
+      "toolbar_field_text": "rgb(192, 197, 205)",
+      "tab_line": "rgb(237, 203, 144)",
+      "popup": "rgb(43, 48, 58)",
+      "popup_text": "rgb(141, 161, 178)",
+      "tab_loading": "rgb(237, 203, 144)",
+      "ntp_background": "rgb(43, 48, 58)",
+      "ntp_text": "rgb(192, 197, 205)"
+    }
+  }
+}
