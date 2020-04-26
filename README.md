@@ -1,4 +1,4 @@
-# FireFox-Moonlite
+# Hyper Moonlite for FireFox
 
 The Hyper-Moonlite theme for Mozilla FireFox
 
